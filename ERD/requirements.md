@@ -1,5 +1,5 @@
 # Entity-Relationship Diagram (ERD) Specification
-
+![image alt](https://github.com/M-Joe28/alx-airbnb-database/blob/main/ERD/er_diagram.png?raw=true)
 ## Entities and Attributes
 
 ### **User**
